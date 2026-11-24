@@ -7,7 +7,7 @@ Gate: UTF-8 text, 1-140 characters, single line.
 
 import os
 
-ENTRY = "LGTM. It compiles, the tests pass, and somewhere in there is a decision I made in 2019 that I can no longer defend."
+ENTRY = "Approved. Somewhere in these 400 lines is a decision I made in 2019 that I can no longer defend."
 
 
 def main() -> None:
